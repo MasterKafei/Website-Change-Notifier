@@ -1,0 +1,11 @@
+api_push_bullet_send_message:
+    path: /texts
+    methods: POST
+
+api_push_bullet_current_user:
+    path: /users/me
+    methods: GET
+
+api_push_bullet_get_devices:
+    path: /devices
+    methods: GET

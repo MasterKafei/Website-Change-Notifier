@@ -1,0 +1,5 @@
+push_bullet:
+    prefix: /{version}/
+    resource: 'push_bullet.yaml'
+    defaults:
+        version: v2
